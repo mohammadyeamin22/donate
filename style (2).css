@@ -1,12 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    
-    
-    
     }
     /* header css-start */
-    
     .head{
         display: flex;
         width: 50%;
@@ -26,7 +22,6 @@
         margin-bottom: 78px;
         text-align: center;
         color: grey;
-        
     }
     .other-head{
         display: flex;
@@ -66,7 +61,6 @@
         
     }
     /* header css-end */
-    
     /* family css-start */
     .family{
         display: flex;
@@ -76,12 +70,9 @@
        width: 70%;
        margin: 0 auto;
        margin-top: 50px;
-    
     }
-    .child{
-        
-        width: 280px;
-        
+    .child{ 
+        width: 280px;  
     }
     .child p{
         color: gray;
@@ -90,8 +81,7 @@
         margin-top: 31.7px;
         text-transform: capitalize;
     
-        margin-bottom: 16px;
-        
+        margin-bottom: 16px;     
     }
     .sub-child{
         margin-right: 30px;
@@ -107,8 +97,7 @@
        
         justify-content: center;
         margin-top: 166.22px;
-    }
-        
+    }   
     .sub-donation img{
         width: 350px;
     height: 400px;
@@ -132,26 +121,22 @@
         ;
       border-radius: 3px;
       font-weight: bold;
-     text-transform: capitalize ;
-     
+     text-transform: capitalize ;  
     }
     .sub-donation h1{
         text-transform: capitalize;
     }
     /* donation css-end */
-    
     /* help css-start */
     .sub-dona{
         margin-right: 94px;
     }
     /* help css-end */
-    
     /* update css-start */
     .head{
         
      align-items: center;  
-     margin-top: 130px;
-        
+     margin-top: 130px; 
     }
     .head h1{
         text-transform: capitalize;
@@ -161,7 +146,6 @@
         color: gray;
     }
     /* update css-end */
-    
     /* footer css-end */
     .footer {
         display: flex;
@@ -174,26 +158,18 @@
         background-color:   #FFF4D6;
         justify-content: center;
         align-items: center;
-    
     }
-        
-        
-    
     .sub-footer{
         text-decoration: none;
         padding: 10px 140px;
         background-color: gray; 
         color: white;
-    
     }
     .a-footer{
-        background-color: #FF5959;
-        
-        
+        background-color: #FF5959;   
     }
     .sub-footer1{
         padding-left: 0px;
-    
     }
     /* footer css-end */
     
