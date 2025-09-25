@@ -1,201 +1,201 @@
 *{
-margin: 0;
-padding: 0;
-
-
-
-}
-/* header css-start */
-
-.head{
-    display: flex;
-    width: 50%;
-    margin: 0 auto;
-    flex-direction: column;
+    margin: 0;
+    padding: 0;
     
-}
-.head-one{
-    margin-left: 230px;
-    margin-right: 230px;
-    text-transform: capitalize;
-}
-.head-two{
-    margin-left: 140px;
-    margin-right: 140px;
-    margin-top: 35px;
-    margin-bottom: 78px;
-    text-align: center;
-    color: grey;
     
-}
-.other-head{
-    display: flex;
-    gap: 25px;
-    margin-left: 80px;
-    color: gray;
-}
-.head-three{
-    margin-left: 180px;
-    margin-right: 180px;
-    margin-top: 61px;
-    margin-bottom: 20.5px;
-    color: gray;
-}
-.head-four{
-    margin-left: 270px;
-    margin-right: 250px;
-   background-color:#FF5959;
-    padding: 15px 10px;
-    text-decoration: none;
-    text-align: center;
-    font-weight: bold;
-    color:white;
-    font-size: 21px;
-    text-transform: capitalize;
-    border-radius: 3px;
-}
-.head-five{
-    margin-top: 20px;
-    margin-left: 210px;
-    color: black;
-    margin-right:222px ;
-}
-.head-six{
-    margin-top: 10px;
-    margin-left: 150px;
     
-}
-/* header css-end */
-
-/* family css-start */
-.family{
-    display: flex;
+    }
+    /* header css-start */
     
-   
-   height: 300px;
-   width: 70%;
-   margin: 0 auto;
-   margin-top: 50px;
-
-}
-.child{
+    .head{
+        display: flex;
+        width: 50%;
+        margin: 0 auto;
+        flex-direction: column;
+        
+    }
+    .head-one{
+        margin-left: 230px;
+        margin-right: 230px;
+        text-transform: capitalize;
+    }
+    .head-two{
+        margin-left: 140px;
+        margin-right: 140px;
+        margin-top: 35px;
+        margin-bottom: 78px;
+        text-align: center;
+        color: grey;
+        
+    }
+    .other-head{
+        display: flex;
+        gap: 25px;
+        margin-left: 80px;
+        color: gray;
+    }
+    .head-three{
+        margin-left: 180px;
+        margin-right: 180px;
+        margin-top: 61px;
+        margin-bottom: 20.5px;
+        color: gray;
+    }
+    .head-four{
+        margin-left: 270px;
+        margin-right: 250px;
+       background-color:#FF5959;
+        padding: 15px 10px;
+        text-decoration: none;
+        text-align: center;
+        font-weight: bold;
+        color:white;
+        font-size: 21px;
+        text-transform: capitalize;
+        border-radius: 3px;
+    }
+    .head-five{
+        margin-top: 20px;
+        margin-left: 210px;
+        color: black;
+        margin-right:222px ;
+    }
+    .head-six{
+        margin-top: 10px;
+        margin-left: 150px;
+        
+    }
+    /* header css-end */
     
-    width: 280px;
+    /* family css-start */
+    .family{
+        display: flex;
+        
+       
+       height: 300px;
+       width: 70%;
+       margin: 0 auto;
+       margin-top: 50px;
     
-}
-.child p{
-    color: gray;
-}
-.child h1{
-    margin-top: 31.7px;
-    text-transform: capitalize;
-
-    margin-bottom: 16px;
+    }
+    .child{
+        
+        width: 280px;
+        
+    }
+    .child p{
+        color: gray;
+    }
+    .child h1{
+        margin-top: 31.7px;
+        text-transform: capitalize;
     
-}
-.sub-child{
-    margin-right: 30px;
-    margin-left: 30px;
-}
-.sub-child1 p{
-    margin-top: 54px;
-}
-/* family css-end */
-/* donation css-start */
-.donation{
-    display: flex;
-   
-    justify-content: center;
-    margin-top: 166.22px;
-}
-    
-.sub-donation img{
-    width: 350px;
-height: 400px;
-}
-.sub-contain{
-    width: 350px;
-    margin-top: 30px;
-    margin-right: 83px;
-}
-.sub-contain p{
-   margin-top: 20px;
-    margin-bottom: 20px;
-    color: gray;
-}
-.sub-contain a{
-    background-color:#FF5959
-    ;
-    padding: 10px 20px;
-    text-decoration:none;
-    color: white
-    ;
-  border-radius: 3px;
-  font-weight: bold;
- text-transform: capitalize ;
- 
-}
-.sub-donation h1{
-    text-transform: capitalize;
-}
-/* donation css-end */
-
-/* help css-start */
-.sub-dona{
-    margin-right: 94px;
-}
-/* help css-end */
-
-/* update css-start */
-.head{
-    
- align-items: center;  
- margin-top: 130px;
-    
-}
-.head h1{
-    text-transform: capitalize;
-    text-align: center;
-}
-.head p{
-    color: gray;
-}
-/* update css-end */
-
-/* footer css-end */
-.footer {
-    display: flex;
-    width: 50%;
-    margin: 0 auto;
+        margin-bottom: 16px;
+        
+    }
+    .sub-child{
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .sub-child1 p{
+        margin-top: 54px;
+    }
+    /* family css-end */
+    /* donation css-start */
+    .donation{
+        display: flex;
+       
+        justify-content: center;
+        margin-top: 166.22px;
+    }
+        
+    .sub-donation img{
+        width: 350px;
+    height: 400px;
+    }
+    .sub-contain{
+        width: 350px;
+        margin-top: 30px;
+        margin-right: 83px;
+    }
+    .sub-contain p{
+       margin-top: 20px;
+        margin-bottom: 20px;
+        color: gray;
+    }
+    .sub-contain a{
+        background-color:#FF5959
+        ;
+        padding: 10px 20px;
+        text-decoration:none;
+        color: white
+        ;
+      border-radius: 3px;
+      font-weight: bold;
+     text-transform: capitalize ;
      
-    height: 150px;
-    margin-top: 50px;
-    margin-bottom: 130px;
-    background-color:   #FFF4D6;
-    justify-content: center;
-    align-items: center;
-
-}
+    }
+    .sub-donation h1{
+        text-transform: capitalize;
+    }
+    /* donation css-end */
+    
+    /* help css-start */
+    .sub-dona{
+        margin-right: 94px;
+    }
+    /* help css-end */
+    
+    /* update css-start */
+    .head{
+        
+     align-items: center;  
+     margin-top: 130px;
+        
+    }
+    .head h1{
+        text-transform: capitalize;
+        text-align: center;
+    }
+    .head p{
+        color: gray;
+    }
+    /* update css-end */
+    
+    /* footer css-end */
+    .footer {
+        display: flex;
+        width: 50%;
+        margin: 0 auto;
+         
+        height: 150px;
+        margin-top: 50px;
+        margin-bottom: 130px;
+        background-color:   #FFF4D6;
+        justify-content: center;
+        align-items: center;
+    
+    }
+        
+        
+    
+    .sub-footer{
+        text-decoration: none;
+        padding: 10px 140px;
+        background-color: gray; 
+        color: white;
+    
+    }
+    .a-footer{
+        background-color: #FF5959;
+        
+        
+    }
+    .sub-footer1{
+        padding-left: 0px;
+    
+    }
+    /* footer css-end */
     
     
-
-.sub-footer{
-    text-decoration: none;
-    padding: 10px 140px;
-    background-color: gray; 
-    color: white;
-
-}
-.a-footer{
-    background-color: #FF5959;
-    
-    
-}
-.sub-footer1{
-    padding-left: 0px;
-
-}
-/* footer css-end */
-
-
-    
+        
