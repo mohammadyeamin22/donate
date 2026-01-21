@@ -7,8 +7,7 @@
         display: flex;
         width: 50%;
         margin: 0 auto;
-        flex-direction: column;
-        
+        flex-direction: column;   
     }
     .head-one{
         margin-left: 230px;
@@ -57,15 +56,12 @@
     }
     .head-six{
         margin-top: 10px;
-        margin-left: 150px;
-        
+        margin-left: 150px; 
     }
     /* header css-end */
     /* family css-start */
     .family{
         display: flex;
-        
-       
        height: 300px;
        width: 70%;
        margin: 0 auto;
@@ -80,7 +76,6 @@
     .child h1{
         margin-top: 31.7px;
         text-transform: capitalize;
-    
         margin-bottom: 16px;     
     }
     .sub-child{
@@ -94,7 +89,6 @@
     /* donation css-start */
     .donation{
         display: flex;
-       
         justify-content: center;
         margin-top: 166.22px;
     }   
@@ -113,12 +107,10 @@
         color: gray;
     }
     .sub-contain a{
-        background-color:#FF5959
-        ;
+        background-color:#FF5959;
         padding: 10px 20px;
         text-decoration:none;
-        color: white
-        ;
+        color: white;
       border-radius: 3px;
       font-weight: bold;
      text-transform: capitalize ;  
@@ -134,7 +126,6 @@
     /* help css-end */
     /* update css-start */
     .head{
-        
      align-items: center;  
      margin-top: 130px; 
     }
@@ -151,7 +142,6 @@
         display: flex;
         width: 50%;
         margin: 0 auto;
-         
         height: 150px;
         margin-top: 50px;
         margin-bottom: 130px;
@@ -166,7 +156,7 @@
         color: white;
     }
     .a-footer{
-        background-color: #FF5959;   
+        background-color: #FF5959; 
     }
     .sub-footer1{
         padding-left: 0px;
